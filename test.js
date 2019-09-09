@@ -1,6 +1,6 @@
 class HelloWorld{
-	constructor() {
-		super();
+	constructor(msg) {
+		super(msg);
 	}
 }
 
