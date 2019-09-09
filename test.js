@@ -1,9 +1,9 @@
 class HelloWorld {
   constructor(name) {
-    super(name);
+    this.name = name;
   }
   getName(name) {
-	  console.log(name);
+    console.log(name);
   }
 }
 
