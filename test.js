@@ -1,0 +1,6 @@
+class HelloWorld{
+	constructor() {
+		super();
+	}
+}
+
